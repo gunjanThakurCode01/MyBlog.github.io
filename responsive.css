@@ -1,0 +1,188 @@
+@media (min-width: 1191px) and (max-width: 1285px){
+    #searchbox {
+        margin-left: 15pc;
+    }
+
+}
+
+@media (min-width: 1118px) and (max-width: 1191px) {
+    #searchbox {
+        margin-left: 10pc;
+    }
+
+}
+
+@media (min-width: 1025px) and (max-width: 1118px) {
+    #searchbox {
+        margin-left: 5pc;
+    }
+    
+}
+
+@media (max-width: 1025px) {
+    #navbar {
+        flex-direction: column;
+    }
+
+    #searchbox {
+        margin: 10px 20pc;
+    }
+
+}
+
+@media (max-width: 1191px) {
+    .footerHeading{
+        margin: 10px 30px;
+    }
+
+    .footerHeading h1 {
+        margin: 10px 30px;
+        font-size: 3pc;
+    }
+    
+    .footerHeading img {
+        margin: 30px 15px;
+        height: 2pc;
+    }
+
+}
+
+@media (min-width: 370px) and (max-width: 978px) {
+    .recipeSubmit {
+        margin: 20px 25px;
+    }
+
+    .recipeSubmit h1 {
+        font-size: 25px;
+    }
+
+    .querybox {
+        width: 15pc;
+        border: 2px solid rgb(120, 117, 117);
+        font-size: smaller;
+    }
+
+    #submit {
+        margin: 18px 10px;
+        font-size: smaller;
+    }
+    
+    footer {
+        flex-wrap: wrap;
+    }
+
+    #navbar ul li{
+        font-size: 16px;
+    }
+
+    #searchbox {
+        width: 13pc;
+        height: 22px;
+        font-size: smaller;
+        margin-top: -14px;
+        
+    }
+
+    .heading h1 {
+        font-size: 55px;
+        margin: auto;
+    }
+
+    .recipe_section .box {
+        border: 2px solid #6b1111;
+        padding: 15px 15px ;
+        margin: 52px 18px;
+        height: 21pc;
+        width: 15pc;
+        border-radius: 15px;
+        font-size: 13px;
+    }
+
+    .box img {
+        height: 9.5pc;
+        width: 15pc;
+        margin: 0px 0px;
+    }
+
+    .querybox0  {
+        width: 16pc;
+        height: 10pc;
+        margin: 12px 0px;
+        border: 2px solid rgb(120, 117, 117);
+        border-style: groove;
+        border-radius: 5px;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 370px) {
+    #navbar ul li {
+        font-size: 9px;
+        margin: -5px -14px;
+    }
+
+    
+
+    #searchbox {
+        width: 8pc;
+        height: 1pc;
+        font-size: 8px;
+        margin-top: -10px;
+        border: 2px solid rgb(120, 117, 117);
+        border-style: groove;
+    }
+
+    .heading {
+        font-size: 15px;
+    }
+
+    .recipe_section .box {
+        border: 2px solid #6b1111;
+        padding: 15px 15px ;
+        margin: 52px 10px;
+        height: 19.8pc;
+        width: 12pc;
+        border-radius: 15px;
+        font-size: 12px;
+    }
+    
+    .box img {
+        height: 6.5pc;
+        width: 12pc;
+        margin: 0px 0px;
+    }
+    
+    footer {
+        flex-wrap: wrap;
+    }
+
+    .recipeSubmit {
+        margin: 20px 20px;
+        font-size: smaller;
+    }
+
+    .recipeSubmit h1 {
+        font-size: 20px;
+    }
+
+    .querybox {
+        width: 10pc;
+        height: 10px;
+        border: 2px solid rgb(120, 117, 117);
+        font-size: 12px;
+        margin: 12px 0px;
+    }
+    .querybox0 {
+        width: 12pc;
+        height: 10pc;
+        margin: 12px 0px;
+        border: 2px solid rgb(120, 117, 117);
+        border-style: groove;
+        border-radius: 5px;
+    }
+
+    #submit {
+        margin: 18px 10px;
+        font-size: smaller;
+    }
+
+}
